@@ -3,7 +3,6 @@
 > *"You don't have to figure it out alone."*
 
 **SDG 3: Good Health and Well-being** (Target 3.4: promote mental health and well-being)
-Built for **IBM SkillsBuild, Masterclass 5: Creating Real-Life Projects**.
 
 > **Important:** Saathi is a screening and support concept. It does **not** diagnose, treat, or replace a counsellor, doctor or therapist. If you or someone you know is in danger or thinking of self-harm, contact local emergency services or a helpline right away (for example, Tele-MANAS in India: **14416**, please verify current details).
 
