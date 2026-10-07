@@ -66,16 +66,6 @@ Saathi widens access to early mental health support, lowers the stigma of the fi
 └── tests/
     └── test_screening.py
 ```
-
-### Submission documents
-
-| Document | File |
-|---|---|
-| Lean Canvas | [`docs/submission/Saathi_Lean_Canvas.pdf`](docs/submission/Saathi_Lean_Canvas.pdf) |
-| Concept Note | [`docs/submission/Saathi_Concept_Note.docx`](docs/submission/Saathi_Concept_Note.docx) |
-| Presentation | [`docs/submission/Saathi_Presentation.pptx`](docs/submission/Saathi_Presentation.pptx) |
-| Project One-Pager | [`docs/submission/Saathi_Project_One_Pager.pdf`](docs/submission/Saathi_Project_One_Pager.pdf) |
-
 ## Try the prototype
 
 Requires Python 3.9+. No external packages needed.
@@ -96,7 +86,7 @@ The demo walks through a short check-in, scores the PHQ-9 or GAD-7, shows a gent
 - Fixed, human-approved crisis responses; helpline hand-off.
 - Regular bias checks across languages, genders and regions.
 
-Details: [`docs/ETHICS_AND_SAFETY.md`](docs/ETHICS_AND_SAFETY.md)
+
 
 ## Roadmap
 
@@ -106,20 +96,10 @@ Details: [`docs/ETHICS_AND_SAFETY.md`](docs/ETHICS_AND_SAFETY.md)
 | 2 | Months 3-6 | Pilot in 1-2 colleges; test safety responses |
 | 3 | Months 6-12 | More languages, counsellor dashboard, NGO and helpline partners |
 
-Details: [`docs/ROADMAP.md`](docs/ROADMAP.md)
 
 ## Impact metrics
 
 Users screened · repeat check-ins · referrals made · comfort and helpfulness ratings · crisis hand-offs handled safely.
-
-## Team
-
-| Name | Role |
-|---|---|
-| [Name] | [Role] |
-| [Name] | [Role] |
-| [Name] | [Role] |
-| [Mentor name] | Mentor / advisor |
 
 ## Acknowledgements
 
@@ -128,4 +108,3 @@ Users screened · repeat check-ins · referrals made · comfort and helpfulness 
 
 ## License
 
-[MIT](LICENSE)
